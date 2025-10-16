@@ -1,4 +1,4 @@
-# 🛡️ EPOH UAV Authentication System
+# 🛡️ POH UAV Authentication System
 Decentralized and Verifiable Flight Data Logging
 This project implements a lightweight, blockchain-based authentication and logging system for Unmanned Aerial Vehicles (UAVs). It utilizes a custom Proof-of-History Lite (EPOH) consensus mechanism to ensure high throughput, low latency, and irrefutable data integrity, making it ideal for resource-constrained aerial networks.
 
